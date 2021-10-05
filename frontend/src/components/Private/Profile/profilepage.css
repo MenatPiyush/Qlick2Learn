@@ -1,0 +1,44 @@
+
+.profile-page {
+  padding: 3%;
+  border-radius: 0.5rem;
+}
+
+.profile-img {
+  text-align: center;
+}
+.profile-img img {
+  width: 56%;
+  height: 100%;
+}
+
+.profile-img .file {
+  position: relative;
+  overflow: hidden;
+  margin-top: -26%;
+  width: 56%;
+  border: none;
+  border-radius: 0;
+  font-size: 15px;
+  background: #212529b8;
+}
+
+.profile-img .file input {
+  position: absolute;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
+
+.profile-head {
+  bottom: 0;
+}
+
+.nav-link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: grey;
+}

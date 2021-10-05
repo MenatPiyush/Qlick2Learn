@@ -1,0 +1,24 @@
+
+.coursecard:hover {
+    transform: scale(1.04);
+  }
+  
+  .coursecard {
+      max-height: 30rem;
+      width:20rem;
+      border-radius: 10px;
+      margin-top: 20px;
+  }
+  .text1{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
